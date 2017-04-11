@@ -16,5 +16,5 @@ https://github.com/TylerBriskie/groupie-server
 <img src="./1.png" alt="Screen Shot 1" width="240" height="400" />
 
 <img src="./2.png" alt="Screen Shot 2" width="240" height="400" />
-<img src="./2.png" alt="Screen Shot 3" width="240" height="400" />
+<img src="./3.png" alt="Screen Shot 3" width="240" height="400" />
 
