@@ -9,6 +9,9 @@ Server:
 
 https://github.com/TylerBriskie/groupie-server
 
+Info Page: 
+
+https://groupie-68572.firebaseapp.com/
 
 ## Summary
 
