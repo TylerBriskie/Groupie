@@ -13,7 +13,7 @@ https://github.com/TylerBriskie/groupie-server
 
 ## Screenshots
 
-![ScreenShot1](/1.png?raw=true "Optional Title")
+![ScreenShot1](/1.png?raw=true "Optional Title" =75x300)
 ![ScreenShot2](/2.png?raw=true "Optional Title")
 ![ScreenShot3](/3.png?raw=true "Optional Title")
 
