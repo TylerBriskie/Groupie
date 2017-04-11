@@ -13,8 +13,12 @@ https://github.com/TylerBriskie/groupie-server
 
 ## Screenshots
 
+### Sign In
 <img src="./1.png" alt="Screen Shot 1" display="inline" margin="40" width="240" height="400" />
 
+### Browsing Other Musicians
 <img src="./2.png" alt="Screen Shot 2" display="inline" width="240" height="400" />
+
+### Editing Profile and Sorting Options
 <img src="./3.png" alt="Screen Shot 3" display="inline" width="240" height="400" />
 
