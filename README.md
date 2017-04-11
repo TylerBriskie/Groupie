@@ -13,8 +13,8 @@ https://github.com/TylerBriskie/groupie-server
 
 ## Screenshots
 
-<img src="./1.png" alt="Screen Shot 1" width="75" height="250" />
+<img src="./1.png" alt="Screen Shot 1" width="205" height="400" />
 
-<img src="./2.png" alt="Screen Shot 2" width="75" height="250" />
-<img src="./2.png" alt="Screen Shot 3" width="75" height="250" />
+<img src="./2.png" alt="Screen Shot 2" width="205" height="400" />
+<img src="./2.png" alt="Screen Shot 3" width="205" height="400" />
 
